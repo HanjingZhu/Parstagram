@@ -22,6 +22,9 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
 <img src='https://github.com/HanjingZhu/Parstagram/blob/master/login.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <img src='https://github.com/HanjingZhu/Parstagram/blob/master/upload.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 <img src='https://github.com/HanjingZhu/Parstagram/blob/master/feed.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
